@@ -17,6 +17,9 @@ other = "Categories"
 [at]
 other = "at"
 
+[freelance]
+other = "(freelance)"
+
 [resume]
 other = "My resume"
 
