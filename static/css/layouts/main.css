@@ -129,7 +129,10 @@ img.right {
   width: 32px;
   height: 32px;
 }
-
+.card-img-md {
+  width: 64px;
+  height: 64px;
+}
 .card-img-xs {
   width: 24px;
   height: 24px;
